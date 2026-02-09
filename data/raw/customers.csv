@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,date_of_birth,address,city,state,zip
+1,Jennifer,Franklin,2000-06-13,1024 Adams Glens Suite 306,South Cynthia,VT,69077
+2,Shannon,Walker,1977-09-27,5766 Barrera Shore Suite 007,Meganmouth,MD,37548
+3,Gina,Dougherty,1989-02-18,31183 Cory Path Apt. 565,East Ralphtown,MO,15263
+4,Sarah,Bauer,1988-12-20,198 Katherine Drive,Amandaborough,AZ,33634
+5,Abigail,Taylor,1978-03-11,90048 Garner Hollow,West Kristine,CA,75424
+6,Spencer,Mckinney,1977-04-15,6709 Weiss Divide Suite 736,Milesborough,RI,02555
+7,Jamie,Sherman,1998-02-14,2578 Tara Brooks Suite 966,Jessicahaven,VT,57833
+8,Jacqueline,Gill,1995-10-23,0136 Janice Ports Apt. 891,South Maria,AL,68881
+9,Andrew,Sparks,2004-02-05,4002 Cole Throughway,Port Kelseybury,IL,44409
+10,Claudia,Jackson,1967-09-28,245 Gonzalez Forge,North Barbara,TX,40109
+11,Jonathan,Gross,2003-09-25,7494 Elizabeth Court Suite 943,Wilsonmouth,MI,38419
+12,Chloe,Neal,1982-11-21,00091 Hall Port,Moranbury,IL,41251
+13,Tracey,Davis,1982-02-09,59799 Samantha Lodge Suite 660,Port Jamesside,VT,16399
+14,Jeffrey,Walter,1982-12-08,3972 Brittney Ports Suite 154,Christopherhaven,WI,81604
+15,Theresa,Barber,2001-09-12,8185 Knight Well,Randallside,MO,65280
+16,Shannon,Scott,1979-05-15,8339 Jennifer Glens,North Josephburgh,OH,28007
+17,Elizabeth,Taylor,1981-06-09,62158 Perez Drives,New Martha,NC,42484
+18,Beth,Thomas,1984-10-28,84238 Roman Keys,North Taylorburgh,UT,22310
+19,Robert,Gonzales,1985-09-26,865 Mary Road,Lake Jillianland,MH,44764
+20,Katherine,Ruiz,1981-11-15,776 Torres Summit Apt. 882,Andrealand,IA,85352
+21,Karen,Burns,1988-03-16,305 Carpenter Bypass,Port Michael,MN,45455
+22,Nicholas,Lopez,1976-01-26,70882 Rivera Union Apt. 167,Perezmouth,FL,52404
+23,Lauren,Walker,1973-01-08,067 Erin Underpass Apt. 955,Mosshaven,AZ,21455
+24,Patrick,Johnson,1978-09-24,57239 Taylor Cliffs Suite 947,Juliebury,TN,94995
+25,Amy,Garza,2004-05-11,88219 Glover Key Apt. 215,Port Howard,GA,06551
+26,Lisa,Moses,1974-08-04,150 Gerald Wells,North Thomaschester,IA,22107
+27,Kim,Morris,1994-04-04,80392 Ryan Creek Suite 568,New Kathleenberg,MT,24188
+28,Tina,Beasley,1965-08-08,153 Samuel Burg,New Taylorhaven,PW,78851
+29,Carl,Ortiz,1967-04-13,6769 Beasley Hills,West Abigail,MD,40420
+30,Brittany,Johnson,1997-02-09,384 Angela Wall Suite 551,Clarktown,MP,57871
+31,Wesley,Melton,1994-02-10,305 Nichole Gardens,South George,TX,93900
+32,Andrea,Burke,1969-01-21,954 Coffey Lane,Port Johnnymouth,LA,66718
+33,Jorge,Reed,1968-03-11,252 Luke Loaf Suite 484,Lake Dawnshire,WA,26589
+34,Vanessa,Reed,1965-01-25,54064 Miranda Forges,Payneland,LA,04113
+35,Jo,Browning,1974-01-13,8727 Jessica Trail,Lake Christinamouth,WI,61950
+36,Christopher,Owens,1998-12-13,9144 Heidi Lane,West Faithview,FM,94958
+37,Jason,Brown,1989-10-03,4935 Stephanie Flat Apt. 972,North Michael,MT,14596
+38,Michelle,Santiago,1992-07-24,421 Robert Estate Suite 162,Anthonymouth,IL,31384
+39,Jamie,Holmes,1998-06-13,9980 Mendoza Corners Suite 424,South Josemouth,PR,66938
+40,Joseph,Monroe,1981-03-26,3090 Karen Overpass,New Gregory,NY,96710
+41,Tony,Fleming,1975-08-11,77188 Hannah Port,Kellyland,LA,35123
+42,Mary,Williams,1986-08-24,8234 Anderson Oval Apt. 353,Lake Melaniestad,DC,99196
+43,Anthony,Grant,1990-01-03,2154 Brooks Meadows Apt. 621,North Cassidy,CT,85045
+44,Sean,Pacheco,1992-04-12,5962 Frederick Glens Apt. 844,Jillianbury,IN,19112
+45,Ronald,Hunter,1991-03-08,4311 Pamela Hills Apt. 427,West Jeffrey,NE,79939
+46,George,Garcia,1980-03-22,1651 Rollins Parks Suite 821,Perryland,MN,92286
+47,Scott,Stewart,1987-05-22,954 Dale Harbors Apt. 856,North Johntown,TX,37320
+48,Philip,Allen,2003-12-29,6791 Sanchez Passage Apt. 392,Joybury,UT,47246
+49,Paul,Carrillo,1999-08-31,7840 Jasmin Circles,East Jamieberg,WA,27290
+50,Tyler,Boyd,1998-08-22,0571 Jessica Highway Suite 741,Randybury,NH,07010
+51,Justin,Cook,2001-02-16,3052 Vincent Lodge,Port Andrew,MN,38889
+52,Shawn,Lopez,1996-04-09,7162 Chris Lodge Apt. 320,Port Brettchester,TN,19632
+53,Michael,Fisher,1997-01-12,432 Owen Oval,Lake Mackenzie,HI,06038
+54,Carl,Garcia,1983-05-02,95676 Sweeney Row Suite 165,Chadmouth,AL,64332
+55,Patrick,Le,1980-09-19,40511 Mary Ferry Apt. 660,Port Carla,IL,34049
+56,Richard,Gonzales,1971-07-09,62160 Dyer Mountain,Peterschester,PW,04152
+57,Rhonda,Carter,1996-01-25,741 Greer Vista,Laurenbury,AS,55593
+58,Rebecca,Jennings,2000-11-19,8854 Ochoa Dam,South Mason,ID,93336
+59,Gary,Brown,1982-02-25,00052 Alexander Expressway Suite 928,Ballville,GA,62950
+60,Michael,Davis,1999-01-13,2888 Glass Light Apt. 059,Foxton,MH,51028
+61,Russell,Wolf,1977-06-19,37643 James Branch,North Jerry,TX,85529
+62,Lisa,Jordan,2001-10-21,29085 Patrick Shores Suite 910,Heatherborough,WY,87413
+63,Karen,Cruz,1992-07-30,51063 Hayes Plains Suite 728,North Richardtown,RI,41120
+64,Steven,Newton,1979-07-24,1053 Collins Route Apt. 774,Lake Taylorhaven,IN,46896
+65,Heather,Flores,1987-01-27,10014 Erickson Viaduct,Janeshire,NM,97482
+66,Patricia,Sanchez,1999-08-30,8197 Brown Common Apt. 417,Burnettstad,GA,50562
+67,Corey,Gordon,1981-07-18,169 Kyle Club,Sandrashire,VT,27693
+68,Heather,Pena,1969-04-26,68757 Franco Roads,Wilsonmouth,NC,39799
+69,David,Harris,1967-03-20,8627 Bryant Road Suite 891,Davidport,GA,53576
+70,Michael,Schroeder,1994-06-01,12079 Martinez Expressway Apt. 861,Kirbyburgh,UT,57416
+71,Margaret,Morgan,1981-12-04,65627 Amy Plain,Port Jennifer,OR,33652
+72,Erin,Hall,1964-10-26,6737 Vanessa Meadow Suite 317,North Elizabethburgh,NE,20751
+73,Lori,Sullivan,1970-05-24,36856 Little Course Apt. 911,East Antonio,DE,61838
+74,Blake,Davis,1978-05-09,6181 Brown Dam,Port Courtneyberg,PA,19296
+75,Donna,Martinez,1972-03-15,2126 Ricky Wells Apt. 933,Willisshire,WV,74919
+76,Marcus,Garcia,1971-12-16,88402 Nelson Expressway,Port Timothybury,ND,75262
+77,Anthony,Vega,1993-05-23,5454 Michael Union Apt. 575,Richardsonberg,ID,46393
+78,Dawn,Miller,2002-04-13,618 Joshua Cove,New Evelynfurt,CT,13371
+79,Toni,Aguilar,1968-01-05,14580 George Loaf Apt. 904,New Jack,CA,57344
+80,Allen,Miller,1990-07-12,034 Townsend Prairie,Stephaniefurt,RI,78279
+81,Travis,Roman,1963-12-21,60747 Joel Rest,Kellyshire,WI,87529
+82,Natalie,Jenkins,1968-12-23,71078 Herrera Views,Port Sarahfort,KY,23675
+83,Nathan,Johnson,1995-11-03,6889 Kelly Loaf Apt. 727,Lake Deborahview,FL,64871
+84,Alexandra,Dickerson,1979-09-18,6317 Michael Freeway Apt. 166,Bensonstad,NY,54226
+85,Patricia,Mitchell,1998-09-13,53582 Rogers Mountains,East Sylviatown,GA,79283
+86,Roger,Sims,1999-01-23,09201 Roth Isle Apt. 909,Jaymouth,AK,74733
+87,Anna,Warner,2001-11-15,230 Richardson Ranch Apt. 035,Jasonview,NC,19485
+88,Tanya,Carey,2000-11-10,4736 Stewart Stravenue,North Kennethfort,ND,63918
+89,Sarah,Thompson,1972-02-14,1663 Fleming Ways,Allenmouth,GU,73358
+90,Brian,Gonzalez,1998-11-05,649 Jimenez Plains,Jamesside,AZ,93289
+91,William,Rose,1984-01-15,35475 Hughes Canyon Apt. 925,West Melissaview,CA,61820
+92,Michael,Berg,1965-11-14,1834 Lewis Isle,New Lynntown,VA,81314
+93,Kara,Payne,2002-10-12,5389 Mosley Corner Suite 730,Mclaughlinburgh,PA,89823
+94,Joshua,Barrett,1972-07-26,65031 Oliver Radial,North Mark,VI,94194
+95,John,Taylor,1970-08-30,79550 Alicia Stream,East Michael,WV,31389
+96,Kristina,Adams,1997-07-12,92132 Briggs Trail,Lake Ian,MT,36137
+97,Rodney,Arnold,1988-03-12,1054 Bonnie Isle Suite 820,Fosterland,HI,22637
+98,Amy,Baker,1968-10-18,44701 Megan Union,Matthewport,UT,32893
+99,Andrew,Moreno,1973-11-13,4137 Gregory Tunnel Apt. 107,Williamchester,MI,43667
+100,Robert,Johnson,1981-05-02,5844 Johnston Creek,Latoyaton,GA,53138
